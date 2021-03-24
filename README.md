@@ -1,2 +1,2 @@
 # django
-It`s my django projects
+It`s my django project
